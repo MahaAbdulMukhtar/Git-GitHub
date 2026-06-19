@@ -5,3 +5,4 @@
 
 ## Goals
 - Master Git & GitHub
+- To become a good Developer
