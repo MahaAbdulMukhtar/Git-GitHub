@@ -1,7 +1,7 @@
 ## Skills
 - HTML, CSS, JavaScript
 - React
-- UI/UX Design
+- User Interface / User Experience Design
 
 ## Goals
 - Master Git & GitHub
